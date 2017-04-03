@@ -1,0 +1,4 @@
+Add this to your HTML code
+<div class="loader-body" id="loader">
+		<div class="loader"></div>
+	</div>
