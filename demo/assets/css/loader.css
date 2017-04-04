@@ -18,7 +18,7 @@
 	border: 12px white solid;
 	border-radius: 50%;
 	position: absolute;
-	border-top-color: red ; /*Here you can change color of the loader spin*/
+	border-top-color: blue ; /*Here you can change color of the loader spin*/
 	transform: translate(-50%, -50%);
 	top: 50%;
 	left: 50%;
