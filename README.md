@@ -1,8 +1,8 @@
 # **Simple Page Preloader**
-This preloader is based on vanilla JavaScript.
+Simple page preloader with simple usage. Built using **vanilla JavaScript/CSS** only.
 
 
-### **USING**
+## **Usage**
 
 To use it you need to add this code into your html page file:  
 ```html
@@ -15,6 +15,6 @@ Then link stylesheet and js file (from dist folder):
 <link rel="stylesheet" href="loader.min.css">
 <script src="loader.js"></script>
 ```
-### **Live Preview**
+## **Live Preview**
 
 [**Live Preview**](https://vladdenisov.github.io/simple-page-preloader/)
